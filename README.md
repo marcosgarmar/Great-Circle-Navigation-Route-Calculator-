@@ -1,7 +1,7 @@
 # Great-Circle-Navigation-Route-Calculator-
 A haskell program that searches the path between two coordinates using n intermediate points
 #  How Work
-1 set the  document scs.txt(or other with the same format)as argument with   ``` set args scs.txt ```
+1 set the  document scs.txt (or other with the same format) as argument with   ``` set args scs.txt ```
 2 run the code 
 ## The program show in the console  and a file  ( solución.txt) 
 1. The great circle route from the initial coorditantes to the final coorditantes, both the distance and the  course.
